@@ -18,6 +18,6 @@ You need to know theses perks when you join here:
 #### To-do projects
 - Make The Cubic website.
 - Make a new packages.
-- Make a template for people who wants to use some popular projects
+- Make some templates for people who needs to use to make some popular projects (Discord bots, game hooking, DLL injector, etc).
 
 That's all. Thanks for visiting us!
